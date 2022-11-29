@@ -3,5 +3,6 @@ This repository contains my projects from AP Computer Science during the 2020-20
 
 
 Course Description:
+
 This course continues the study of computer programming using the Java language. Object oriented programming and class design will be studied in depth. Topics include 2D arrays, searching and sorting algorithms, and recursion. Social and ethical ramifications of computer in society will also be addressed.
 Programming assignments will, in general, be more extensive, and include the use of case studies. This course is intended for students who want to pursue careers in computer science, mathematics, engineering, or science.
